@@ -1,0 +1,76 @@
+Symptom 1,Symptom 2,Intensity,Duration,Time,Age,Sex,Disease
+Fever,Headache,High,5,Night,17,Male,Malaria
+Fever,Vomiting,High,2,Night,20,Male,Malaria
+Fatigue,Headache,High,3,Night,19,Female,Malaria
+Fever,Headache,Low,7,Night,10,Female,Malaria
+Fever,Vomiting,High,4,Morning ,25,Male,Malaria
+Diarrhea,Vomiting,Low,5,Morning ,12,Female,Malaria
+Fever,Headache,High,2,All Day,9,Male,Malaria
+Cough,Headache,Low,1,Morning ,11,Female,Malaria
+Fatigue,Rapid Breathing,Low,2,All Day,30,Female,Malaria
+Fatigue,Vomiting,High,5,Night,29,Female,Malaria
+Vomiting,Rapid Breathing,High,6,All Day,10,Female,Malaria
+Fever,Headache,High,7,Night,16,Male,Malaria
+Fever,Headache,High,4,Night,13,Female,Malaria
+Diarrhea,Rapid Breathing,Low,3,All Day,17,Female,Malaria
+Cough,Headache,Low,1,Night,9,Male,Malaria
+Fever,Vomiting,High,9,Morning ,7,Male,Malaria
+Fever,Headache,Low,2,Morning ,12,Male,Malaria
+Fever,Vomiting,High,14,Night,17,Male,Malaria
+Cough,Vomiting,High,8,Morning ,23,Female,Malaria
+Fatigue,Rapid Breathing,Low,4,All Day,15,Female,Malaria
+Fever,Headache,High,8,Morning ,18,Male,Malaria
+Fatigue,Rapid Breathing,Low,5,All Day,29,Female,Malaria
+Fever,Headache,High,6,Night,10,Male,Malaria
+Diarrhea,Headache,High,4,Morning ,12,Female,Malaria
+Fatigue,Rapid Breathing,High,7,All Day,22,Female,Malaria
+Fatigue,Frequent Urination,Low,8,All Day,57,Male,Diabetes
+Increased Hunger,Dry Mouth,Low,14,All Day,21,Female,Diabetes
+Blurry Vision,Itchy Skin,Low,11,All Day,68,Female,Diabetes
+Fatigue,Frequent Urination,Low,6,All Day,26,Female,Diabetes
+Fatigue,Dry Mouth,Low,13,All Day,72,Male,Diabetes
+Numbness in feet,Frequent Urination,High,4,All Day,52,Male,Diabetes
+Fatigue,Weight Loss,High,13,Morning ,60,Female,Diabetes
+Blurry Vision,Dry Mouth,High,5,All Day,28,Male,Diabetes
+Numbness in feet,Itchy Skin,High,2,Night,30,Female,Diabetes
+Fatigue,Frequent Urination,Low,9,Night,43,Female,Diabetes
+Increased Hunger,Dry Mouth,High,8,All Day,61,Male,Diabetes
+Fatigue,Dry Mouth,Low,10,All Day,27,Male,Diabetes
+Numbness in Hands,Weight Loss,High,1,Morning ,45,Male,Diabetes
+Numbness in feet,Frequent Urination,High,1,Night,68,Female,Diabetes
+Numbness in Hands and Feet,Weight Loss,High,2,All Day,25,Male,Diabetes
+Increased Hunger,Dry Mouth,High,5,Morning ,29,Female,Diabetes
+Fatigue,Frequent Urination,High,2,Night,63,Female,Diabetes
+Blurry Vision,Dry Mouth,Low,8,All Day,38,Male,Diabetes
+Fatigue,Itchy Skin,High,6,Morning ,33,Female,Diabetes
+Increased Hunger,Weight Loss,Low,12,Night,40,Male,Diabetes
+Numbness in Hand and Feet,Frequent Urination,High,3,All Day,59,Male,Diabetes
+Fatigue,Weight Loss,Low,7,Morning ,41,Male,Diabetes
+Increased Hunger,Dry Mouth,High,2,Night,29,Male,Diabetes
+Numbness in feet,Weight Loss,Low,9,All Day,38,Female,Diabetes
+Fatigue,Frequent Urination,Low,8,Night,77,Male,Diabetes
+Fatigue,Stomach Pain,High,6,Night,30,Male,Hepatitis
+Loss Of Appetite,Weight Loss,Low,14,Morning ,35,Male,Hepatitis
+Fever,Headache,High,7,All Day,53,Female,Hepatitis
+Cough,Sore throat,Low,8,All Day,33,Female,Hepatitis
+Fever,Weight Loss,Low,5,All Day,41,Female,Hepatitis
+Cough,Vomiting,High,9,Night,32,Male,Hepatitis
+Loss Of Appetite,Dark Urine,Low,14,Night,58,Female,Hepatitis
+Fatigue,Stomach Pain,High,2,All Day,37,Male,Hepatitis
+Fever,Sore throat,High,7,Morning ,49,Male,Hepatitis
+Fatigue,Weight Loss,Low,14,All Day,25,Female,Hepatitis
+Fatigue,Weight Loss,Low,12,Morning ,67,Male,Hepatitis
+Fever,Vomiting,High,1,Night,45,Male,Hepatitis
+Loss Of Appetite,Dark Urine,Low,11,All Day,60,Male,Hepatitis
+Fatigue,Vomiting,High,5,Night,54,Female,Hepatitis
+Cough,Sore throat,High,6,All Day,38,Female,Hepatitis
+Fever,Dark Urine,High,3,All Day,57,Male,Hepatitis
+Loss Of Appetite,Weight Loss,Low,9,Morning ,71,Male,Hepatitis
+Fever,Dark Urine,Low,8,All Day,55,Female,Hepatitis
+Cough,Weight Loss,High,3,All Day,34,Female,Hepatitis
+Cough,Sore throat,Low,7,All Day,45,Female,Hepatitis
+Fever,Headache,Low,9,Morning ,56,Male,Hepatitis
+Fever,Dark Urine,Low,13,All Day,30,Female,Hepatitis
+Fever,Stomach Pain,High,1,Night,45,Female,Hepatitis
+Fever,Dark Urine,High,1,Night,63,Male,Hepatitis
+Fatigue,Stomach Pain,Low,5,All Day,38,Male,Hepatitis
